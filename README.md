@@ -4,6 +4,9 @@
 A simple python tool to help dump memory slots from targeted solidity contracts.
 ![Demo Screenshot](https://raw.githubusercontent.com/HackingWeb3/ETHstorageDump/main/demo.png)
 
+## Work in progress
+This script is a work in progress. Eventually it will be merged into an all in one script for infogathering for web3sploit. 
+
 
 
 ## EVM storage primer
