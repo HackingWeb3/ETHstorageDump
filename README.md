@@ -2,6 +2,7 @@
 
 
 A simple python tool to help dump memory slots from targeted solidity contracts.
+![Demo Screenshot](https://raw.githubusercontent.com/HackingWeb3/ETHstorageDump/main/demo.png)
 
 
 
